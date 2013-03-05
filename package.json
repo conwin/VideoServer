@@ -1,0 +1,12 @@
+{
+  "name": "VideoServer",
+  "version": "1.0.0",
+  "description": "SE3314 Assignment 1",
+  "main": "RTSP.js",
+  "author": "Robert Fraser",
+  "dependencies": {
+    "fs": "0.0.0",
+    "util": "~0.4.9",
+    "net": "~1.0.0"
+  }
+}
