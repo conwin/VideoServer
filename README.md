@@ -1,15 +1,12 @@
 # VideoServer.js
 
-### Author: Robert Fraser
-
 ## Usage
 
-- First navigate to the unziped folder containing the project
-- Second use npm to install the required modules listed in the package.json file
+- First use npm to install the required modules listed in the package.json file
 
 	- > npm install
 
-- Third use node to run the main server: RTSP.js 
+- Second use node to run the main server: RTSP.js 
 	
 	- > node RTSP.js
 	- Ensure the folder resources inside the main application folder has the video files
